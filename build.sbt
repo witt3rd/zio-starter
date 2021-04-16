@@ -6,7 +6,7 @@ val zioSchemaVersion = "0.0.4"
 lazy val root = project
   .in(file("."))
   .settings(
-    name := "mzio",
+    name := "zio-starter",
     inThisBuild(
       List(
         organization := "com.witt3rd",
